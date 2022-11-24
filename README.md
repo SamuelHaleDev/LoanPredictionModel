@@ -1,5 +1,5 @@
 # LoanPredictionModel
-This model is based off of a Kaggle loan data set. https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset. I went for a standard linear layer for this one as it gave me the best results. The model at its best got ~75% accuracy. Understandably since there was not too much data to train with. Some of the data didn't make since even to me seeing two identical candidates with something as simple as just different geographical residency and that being the difference between getting and not getting a loan. 
+This model is based off of a Kaggle loan data set. https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset. I went for a standard linear layer for this one as it gave me the best results. The model at its best got ~80% accuracy. Understandably since there was not too much data to train with. Some of the data didn't make since even to me seeing two identical candidates with something as simple as just different geographical residency and that being the difference between getting and not getting a loan. 
 
 As for how to run this it requires a few libraries that you can install through PyCharm in the virtual environments it offers.
 1) torch
